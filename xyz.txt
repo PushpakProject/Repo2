@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is EEF0-CAE7
+
+ Directory of C:\Users\Pushpak Srivastava\Desktop\MyGitTest
+
+25-05-2019  01:06    <DIR>          .
+25-05-2019  01:06    <DIR>          ..
+25-05-2019  01:05               360 test.text
+25-05-2019  01:06                 0 xyz.txt
+               2 File(s)            360 bytes
+               2 Dir(s)  14,725,976,064 bytes free
